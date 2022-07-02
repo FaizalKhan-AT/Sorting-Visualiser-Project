@@ -1,0 +1,18 @@
+body {
+  background: #000;
+}
+.form-control,
+.form-select {
+  box-shadow: none !important;
+  border: none !important;
+}
+.btn {
+  box-shadow: none !important;
+}
+.box {
+  border: 1px solid white;
+  column-gap: 5px;
+}
+.bar {
+  background: white;
+}
